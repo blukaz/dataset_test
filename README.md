@@ -1,5 +1,5 @@
 # Data set structure
-<InstitutionName>_DataSet:
+*"InstitutionName"_DataSet
   * Objects
     * Boxes
     * ElectricalComponents
