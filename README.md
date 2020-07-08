@@ -1,6 +1,6 @@
 # Data set structure
 
-* InstitutionName_DataSet
+* **InstitutionName**_DataSet
   * Objects
     * Boxes
     * ElectricalComponents
