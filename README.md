@@ -9,7 +9,7 @@
     * Testbench
     * Workcell
       * Synthetic
-        * Ideal
+        [-]* Ideal
         * NoiseModel_A
         * NoiseModel_B
       * Real
