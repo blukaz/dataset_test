@@ -9,7 +9,7 @@
     * Testbench
     * Workcell
       * Synthetic
-        [-]* Ideal
+        * Ideal
         * NoiseModel_A
         * NoiseModel_B
       * Real
@@ -19,4 +19,9 @@
         * Synthetic
         * Real
     * Worktable
+    
+# File extensions
 
+1. Image, Depth data: **.png**
+2. Ground Truth: **.png**, **.pcd**, **.ply**
+3. Point Cloud: **.pcd**, **.ply**
