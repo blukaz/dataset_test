@@ -49,4 +49,4 @@ Every sub-folder (e.g. _Workcell_) should contain a **.txt** describing which da
 
 1. Image, Depth data: **.png**
 2. Ground Truth: **.png**, **.ply**
-3. Point Cloud: **.pcd**
+3. Point Cloud: **.ply**
