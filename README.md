@@ -39,6 +39,7 @@ The **GroundTruth** folders should contain following data:
 ### Additional information
 
 Every sub-folder (e.g. _Workcell_) should contain a **.txt** describing which data will be used for learning, evaluation and testing.
+
 **TBD:** the image size (e.g. 640x480) and if it should be fixed or not.
     
 # File extensions
