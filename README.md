@@ -31,8 +31,8 @@ On the elementary level, folders should have the following data:
 1. SceneName_TypeOfData_(NoiseModel_)RGB_index.png _(example: Workcell_Synthetic_Ideal_RGB_1.png)_
 2. SceneName_TypeOfData_(NoiseModel_)Depth_index.png _(example: Workcell_Real_SensorB_Depth_48.png)_
 3. SceneName_TypeOfData_(NoiseModel_)RGBD_index.png _(example: Workcell_Real_SensorB_RGBD_48.png)_
-4. SceneName_TypeOfData_(NoiseModel_)XYZ_index.pcd _(example: Testbench_Synthetic_NoiseModelA_XYZ_432.png)_
-5. SceneName_TypeOfData_(NoiseModel_)XYZRGBA_index.pcd _(example: Testbench_Synthetic_NoiseModelA_XYZRGBA_432.png)_
+4. SceneName_TypeOfData_(NoiseModel_)XYZ_index.ply _(example: Testbench_Synthetic_NoiseModelA_XYZ_432.ply)_
+5. SceneName_TypeOfData_(NoiseModel_)XYZRGBA_index.ply _(example: Testbench_Synthetic_NoiseModelA_XYZRGBA_432.ply)_
 
 The **GroundTruth** folders should contain following data:
 
